@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tentang">Aplikasi ini berisi tentang data/profile pribadi saya untuk kebutuhan nilai UTS AKBIF9</string>
+    <string name="isi_aplikasi">Isi Aplikasi</string>
+    <string name="selamat_datang">SELAMAT DATANG</string>
+    <string name="tujuan">Aplikasi ini dibuat untuk tujuan Tugas untuk memenuhi nilai UTS kelas AKBIF9</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="music_favorite_video"><![CDATA[Music Favorite & Video]]></string>
+    <string name="profile">Profile</string>
+    <string name="gallery">Gallery</string>
+    <string name="home">Home</string>
+    <string name="emailAgam"><u>painchikusudo@gmail.com</u></string>
+    <string name="hobby"><b>Hobby</b> : Making Trap Beat , Learning About Android Dev</string>
+        <string name="interest">Interest</string>
+    <string name="about">How Can i Describe my Self? When i dont know \'bout myself</string>
+    <string name="gambar">gambar</string>
+    <string name="makes"><b>Makes</b> : Nasi Warung Janda/Bang Toriq /Daging Rusa</string>
+    <string name="mike"><b>Mikes</b> : All drink name mojitos</string>
+    <string name="interest_desc"><b>Interest</b> : Making Trap Music &amp; Android Development></string>
+    <string name="citacita"><b>Cita-cita</b> : Jadi orang kaya &amp; membahagiakan orang tua</string>
+    <string name="home1">Home</string>
+    <string name="interest1">Interest</string>
+    <string name="music_video_favorite">Music Video Favorite</string>
+    <string name="friend_list">Friend List</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="NoHP">081237977663</string>
+    <string name="igagam">agaaaam999__</string>
+</resources>

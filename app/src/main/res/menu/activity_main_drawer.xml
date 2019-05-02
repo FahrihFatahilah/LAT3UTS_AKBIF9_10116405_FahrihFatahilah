@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item android:title="@string/home">
+    <group android:checkableBehavior="single">
+            <menu>
+
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_interest"
+            android:icon="@drawable/ic_interest"
+            android:title="@string/interest1" />
+
+            </menu>
+    </group>
+        </item>
+
+    <item android:title="@string/daily_activity">
+        <menu>
+            <group android:checkableBehavior="single">
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_Daily"
+            android:icon="@drawable/ic_daily"
+            android:title="@string/daily_activity" />
+
+    <item
+        android:checkable="true"
+        android:id="@+id/nav_friend"
+        android:icon="@drawable/ic_friend"
+        android:title="@string/friend_list" />
+            </group>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:checkable="true"
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/ic_gallery"
+        android:title="@string/gallery" />
+    <item
+        android:checkable="true"
+        android:id="@+id/nav_musicvideo"
+        android:icon="@drawable/ic_musicvideo"
+        android:title="@string/music_video_favorite" />
+    <item
+        android:checkable="true"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile" />
+    </group>
+</menu>
+
+
+
+
+
