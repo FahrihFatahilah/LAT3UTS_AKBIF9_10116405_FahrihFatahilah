@@ -34,7 +34,7 @@ public class DailyActivity_fragment extends Fragment {
         // Create the recyclerview.
         RecyclerView dailyRecyclerView = (RecyclerView)view.findViewById(R.id.card_view_recycler_list);
         // Create the grid layout manager with 2 columns.
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(this.getActivity(),2);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(this.getActivity(),1);
         // Set layout manager.
         dailyRecyclerView.setLayoutManager(gridLayoutManager);
 
